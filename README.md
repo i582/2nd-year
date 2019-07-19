@@ -10,9 +10,14 @@
 - `SDL 2.0` (Гущин)
   - Лабораторные работы, похожие на наши во втором семестре
 
-Материалы по `WinAPI` Безрукова:
+Материалы Безрукова по `WinAPI`:
 - [Методичка](https://github.com/i582/2nd-year/blob/master/bezrukov-methoda.pdf)
 - [Варианты заданий 1(предположительно) лабораторной работы](https://github.com/i582/2nd-year/blob/master/bezrukov-variants-winapi.txt)
+
+Материалы по `WinAPI`
+
+- [Лучшие видео-уроки для начинающих](https://www.youtube.com/channel/UCmJT3IfHtpFJyln2UdABBKg)
+- [MSDN — документация Microsoft](https://docs.microsoft.com/ru-ru/windows/win32/controls/window-controls)
 
 ### Курсовая работа
 
