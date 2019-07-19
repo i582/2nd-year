@@ -10,6 +10,8 @@
 - `SDL 2.0` (Гущин)
   - Лабораторные работы, похожие на наши во втором семестре
 
+### WinAPI (Безруков В.А.)
+
 Материалы Безрукова по `WinAPI`:
 - [Методичка](https://github.com/i582/2nd-year/blob/master/bezrukov-methoda.pdf)
 - [Варианты заданий 1(предположительно) лабораторной работы](https://github.com/i582/2nd-year/blob/master/bezrukov-variants-winapi.txt)
@@ -19,11 +21,17 @@
 - [Лучшие видео-уроки для начинающих](https://www.youtube.com/channel/UCmJT3IfHtpFJyln2UdABBKg)
 - [MSDN — документация Microsoft](https://docs.microsoft.com/ru-ru/windows/win32/controls/window-controls)
 
+### SDL2 & WinAPI (Спирин Д.О.)
+Как говорил Спирин, если будет вести он, то SDL у нас не будет, так как мы его проходили во 2 семестре. 
+4 лабораторных работы (1 и 2 — SDL, 3 и 4 — WinAPI) + курсовая
+
+[Папка с файлами Спирина](https://github.com/i582/2nd-year/tree/master/spirin)
+
 ### Курсовая работа
 
 По `WinAPI` — 3D фигура
 
-По `SDL` — неизвестно
+По `SDL` — [примерные варианты у Спирина](https://github.com/i582/2nd-year/blob/master/spirin/course-variants.md)
 
 ---
 
