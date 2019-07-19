@@ -23,7 +23,7 @@
 
 ### SDL2 & WinAPI (Спирин Д.О.)
 Как говорил Спирин, если будет вести он, то SDL у нас не будет, так как мы его проходили во 2 семестре. 
-4 лабораторных работы (1 и 2 — SDL, 3 и 4 — WinAPI) + курсовая
+4 лабораторных работы (1 и 2 — SDL, 3 и 4 — WinAPI) + [курсовая SDL2.0](https://github.com/i582/2nd-year/blob/master/spirin/course-variants.md) 
 
 [Папка с файлами Спирина](https://github.com/i582/2nd-year/tree/master/spirin)
 
