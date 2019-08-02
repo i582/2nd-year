@@ -20,6 +20,7 @@
 
 - [Лучшие видео-уроки для начинающих](https://www.youtube.com/channel/UCmJT3IfHtpFJyln2UdABBKg)
 - [MSDN — документация Microsoft](https://docs.microsoft.com/ru-ru/windows/win32/controls/window-controls)
+- [Рисование примитивов](https://api-2d3d-cad.com/2d_winapi_c/)
 
 ### SDL2 & WinAPI (Спирин Д.О.)
 Как говорил Спирин, если будет вести он, то SDL у нас не будет, так как мы его проходили во 2 семестре. 
